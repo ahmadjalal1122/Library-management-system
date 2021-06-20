@@ -1,0 +1,36 @@
+B1
+Titanic
+Lady Sharmato
+12
+B2
+One Day or Day one!
+Johnson
+30
+B3
+Myth of Independence
+Zulfiqar Ali Bhutto
+25
+B4
+Pak Studies
+Abdul Sattar
+33
+B5
+Review Book
+Abdul Sattar
+24
+B6
+Duck Buck
+Ahmad Jalal
+31
+B7
+Myth of Aziyat
+Muneeb Waqas
+999
+B8
+ISE
+Tazeem Haider
+44
+B11
+Project Managament
+Ahmad Jalal
+1
